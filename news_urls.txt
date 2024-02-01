@@ -1,7 +1,5 @@
 https://www.bbc.com/news/science-environment-68134476
 https://www.bbc.com/news/uk-england-devon-68127144
-https://www.bbc.com/news/world-us-canada-68118822
-https://www.bbc.com/news/technology-68137046
 https://www.bbc.com/news/world-africa-68037008
 https://www.bbc.com/news/uk-england-coventry-warwickshire-68155450
 https://www.bbc.com/news/world-europe-68156442
@@ -9,10 +7,6 @@ https://www.nbcnews.com/science/space/astronauts-turkey-sweden-italy-launch-spac
 https://www.nbcnews.com/tech/live-blog/senate-hearing-online-child-safety-big-tech-live-updates-rcna136235
 https://www.nbcnews.com/tech/tech-news/elon-musk-says-startup-neuralink-implanted-device-first-human-rcna136285
 https://www.nbcnews.com/news/us-news/toyota-warns-50000-us-vehicle-owners-stop-driving-get-immediate-repair-rcna136325
-https://www.nbcnews.com/news/world/russian-anti-war-rockers-face-deportation-thailand-rcna136508
 https://www.nbcnews.com/news/world/french-farmers-paris-tractor-protest-rcna136116
 https://www.nbcnews.com/news/world/mona-lisa-splattered-soup-latest-target-climate-activists-rcna136043
-https://www.dw.com/en/japans-pm-kishida-struggles-to-rebuild-trust-amid-scandals/a-68131756
 https://techcrunch.com/2024/01/23/googles-new-gemini-powered-conversational-tool-helps-advertisers-quickly-build-search-campaigns/
-https://www.bbc.com/future/article/20240111-the-us-is-bringing-back-beavers-because-theyre-natures-best-firefighters
-https://www.bbc.com/future/article/20240105-the-maps-fighting-jaguar-poaching-in-south-americas-atlantic-forest
